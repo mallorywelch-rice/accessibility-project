@@ -1,0 +1,7 @@
+.menu--quick .menu__item:hover {
+    color: #9FDDF9;
+}
+.menu--quick {
+    padding: 20px 0;
+    background-color: #13133E;
+}
