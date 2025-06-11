@@ -1,0 +1,28 @@
+<style type="text/css">.ckeditor-accordion-container > dl {
+    position: relative;
+    border: 1px solid #fffffff;
+}
+
+.ckeditor-accordion-container > dl dt > a, .ckeditor-accordion-container > dl dt > a:not(.button) {
+    display: block;
+    padding: 10px 15px 10px 50px;
+    background-color: #0A509E;
+    color: #fff;
+    cursor: pointer;
+    -webkit-transition: background-color 300ms;
+    transition: background-color 300ms;
+    border-bottom: 1px solid #ffffff;
+}
+
+
+.ckeditor-accordion-container > dl dt > a:hover, .ckeditor-accordion-container > dl dt > a:not(.button):hover {
+    background-color: #13133E;
+    box-shadow: none;
+    color: #fff;
+    text-decoration: none;
+}
+
+.ckeditor-accordion-container>dl dt>.ckeditor-accordion-toggle:before, .ckeditor-accordion-container>dl dt>.ckeditor-accordion-toggle:after, .ckeditor-accordion-container > dl dt > a > .ckeditor-accordion-toggle:before, .ckeditor-accordion-container > dl dt > a > .ckeditor-accordion-toggle:after {
+    background: rgb(255 255 255);
+}
+</style>
