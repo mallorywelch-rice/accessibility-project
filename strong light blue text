@@ -1,0 +1,5 @@
+li strong, .ckeditor li strong, .page-body__content li strong {
+    font-family: 'MalloryBook', sans-serif;
+    text-transform: uppercase;
+    color: #0A509E;
+}
