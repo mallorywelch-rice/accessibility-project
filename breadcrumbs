@@ -1,0 +1,5 @@
+nav.breadcrumbs {
+    padding: 10px 32px 8px 30px;
+    background-color: var(--midnight-blue);
+    border-radius: 0;
+}
